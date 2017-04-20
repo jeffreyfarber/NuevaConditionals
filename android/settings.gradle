@@ -1,0 +1,3 @@
+rootProject.name = 'NuevaConditionals'
+
+include ':app'
