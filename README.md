@@ -9,4 +9,3 @@ this.getText2Value() is called twice in the code.
 
 Can you unlock the extra special secret?
 - If you do, notice the use special short-hard syntax!
-
